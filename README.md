@@ -17,7 +17,7 @@ Ad-Analytics/
 
 ├── Ad-Analytics.ipynb  #Main Jupyter notebook (Google Colab)
 
-├── ad_data.csv #dataset
+├── AdAnalyticpkl638250305.dat #dataset
 
 └── README.md #Project documentation
 
@@ -43,7 +43,7 @@ Ad-Analytics/
 ## 📌 Notes
 
 - Designed as part of a university course on **Object-Oriented Programming in Python**
-- You can modify the notebook to analyze your own datasets by replacing `ad_data.csv`
+- You can modify the notebook to analyze your own datasets by replacing `AdAnalyticpkl638250305.dat`
 
 ## 👨‍💻 Author
 
